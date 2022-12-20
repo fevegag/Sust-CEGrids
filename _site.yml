@@ -1,7 +1,7 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: '<div><img src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/enel_black.png" width="85"></img> Enel Grids Sust&CE</div>'
+  title: '<div><img src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/enel_white.png" width="85"></img> Enel Grids Sust&CE</div>'
   left:
     - text: "Home"
       href: index.html
