@@ -1,9 +1,16 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: '<div><img src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/enel_black.png" width="85"></img> Enel Grids Sust&CE</div>'
   left:
     - text: "Home"
       href: index.html
     - text: "About"
-      href: about.html
+      href: about.html 
+      
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
+    include:
+      after_body: footer.Rhtml
