@@ -1,16 +1,22 @@
 name: "my-website"
 output_dir: "."
 navbar:
-  title: '<div><img src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/enel_white.png" width="85"></img> Enel Grids Sust&CE</div>'
+  title: '<div><img src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/enel_white.png" width="85"></img> Sust&CE Enel Grids</div>'
   left:
-    - text: "Home"
+    - text: "Inicio"
       href: index.html
-    - text: "About"
-      href: about.html 
+    - text: "Banco de proyectos"
+      href: panel.html
+    - text: "Topic Map ODS"
+      href: SDGpathfinder.html
+    - text: "Nosotros"
+      href: about.html
+    - text: "Alianzas"  
+      href: alianzas.html
       
 output:
   html_document:
-    theme: flatly
+    theme: united
     highlight: tango
     include:
       after_body: footer.Rhtml

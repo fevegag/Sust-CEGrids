@@ -1,0 +1,33 @@
+---
+title: "Visor de proyectos"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    horizontal_layout: scroll
+    runtime: shiny
+    theme: sandstone
+    logo: "/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/enel_white_small.png"
+    storyboard: true
+    social: [ "twitter", "linkedin", "menu" ]
+---
+>
+>
+
+```{r setup, include=FALSE}
+
+library(flexdashboard)
+library (haven)
+library(ggplot2)
+library(plotly)
+library(dplyr)
+library(survey)
+library(questionr)
+library(knitr)
+
+#Path Macbook Felipe Datasets proyectos
+#path = "/Users/fevegag/Municipalidad de Las Condes/DECOMCloud - Documentos/Planificación Social y Estudios/Estudios/EN TRABAJO/2020/20200814 CENSO SOCIAL LAS CONDES 2020/"
+
+```
+
+Presentación {data-orientation=rows}
+=====================================
