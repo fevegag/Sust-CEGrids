@@ -1,5 +1,48 @@
 ---
-title: "Nosotros"
+title: "Equipo"
 ---
 
-More about this website.
+<img style="float:left; margin:10px;" src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/users.png" alt="drawing" width="150" height="200"/><br><br><br>Camila De La Quintana Correa<br>Head of Sustainability & Circular Economy<br>Enel Grids & MKT<br><img src="/Users/fevegag/OneDrive/Iconos presentaciones/email.png" alt="drawing" width="18" align="center"><a href="mailito:camila.delaquinta@enel.com"> camila.delaquintana@enel.com</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img style="float:left; margin:10px;" src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/users.png" alt="drawing" width="150" height="200"/><br><br><br>Renato Coffré Labbé<br>Especialista en Sostenibilidad y Relaciones Comunitarias<br>Enel Grids & MKT<br>Territorial Zona Chacabuco<br><img src="/Users/fevegag/OneDrive/Iconos presentaciones/email.png" alt="drawing" width="18" align="center"><a href="mailito:renato.coffre@enel.com"> renato.coffre@enel.com</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img style="float:left; margin:10px;" src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/users.png" alt="drawing" width="150" height="200"/><br><br><br>Eduardo Pereira Supúlveda<br>Especialista en Sostenibilidad y Relaciones Comunitarias<br>Enel Grids & MKT<br>Territorial Zona Pacífico<br><img src="/Users/fevegag/OneDrive/Iconos presentaciones/email.png" alt="drawing" width="18" align="center"><a href="mailito:eduardo.pereira@enel.com"> eduardo.pereira@enel.com</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img style="float:left; margin:10px;" src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/users.png" alt="drawing" width="150" height="200"/><br><br><br>Ricardo Roa Vilchez<br>Especialista en Sostenibilidad y Relaciones Comunitarias<br>Enel Grids & MKT<br>Territorial Zona Cordillera<br><img src="/Users/fevegag/OneDrive/Iconos presentaciones/email.png" alt="drawing" width="18" align="center"><a href="mailito:ricardo.roa@enel.com"> ricardo.roa@enel.com</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img style="float:left; margin:10px;" src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/users.png" alt="drawing" width="150" height="200"/><br><br><br>Vivian Videla Herrera<br>Especialista en Sostenibilidad y Relaciones Comunitarias<br>Enel Grids & MKT<br>Territorial Zona Florida<br><img src="/Users/fevegag/OneDrive/Iconos presentaciones/email.png" alt="drawing" width="18" align="center"><a href="mailito:vivian.videla.external@enel.com"> vivian.videla.external@enel.com</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img style="float:left; margin:10px;" src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/users.png" alt="drawing" width="150" height="200"/><br><br><br>Luca Filosomi<br>Especialista en Economía Circular<br>Enel Grids & MKT<br><img src="/Users/fevegag/OneDrive/Iconos presentaciones/email.png" alt="drawing" width="18" align="center"><a href="mailito:luca.filosomi@enel.com"> luca.filosomi@enel.com</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img style="float:left; margin:10px;" src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/users.png" alt="drawing" width="150" height="200"/><br><br><br>Felipe Vega Gaete<br>Especialista en Sostenibilidad<br>Enel Grids & MKT<br><img src="/Users/fevegag/OneDrive/Iconos presentaciones/email.png" alt="drawing" width="18" align="center"><a href="mailito:felipe.vega.externali@enel.com"> felipe.vega.external@enel.com</a>
+</br>

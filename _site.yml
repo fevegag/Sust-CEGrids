@@ -8,7 +8,7 @@ navbar:
     - text: "Banco de proyectos"
       href: panel.html
     - text: "Topic Map ODS"
-      href: SDGpathfinder.html
+      href: SDGPathfinder.html
     - text: "Nosotros"
       href: about.html
     - text: "Alianzas"  
