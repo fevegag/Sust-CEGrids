@@ -37,6 +37,12 @@ Seguridad Energética en Campamentos {data-navmenu="Pobreza Energética"}
 Inclusión Energética {data-navmenu="Pobreza Energética"}
 =====================================  
 
+Formación Instaladores Eléctricos Domciliarios {data-navmenu="Pobreza Multidimensional"}
+=====================================  
+
+Educando con Energía ENEL CEO {data-navmenu="Pobreza Multidimensional"}
+=====================================  
+
 Comunidad Circular {data-navmenu="Economía Circular"}
 =====================================  
 
