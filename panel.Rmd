@@ -1,14 +1,15 @@
 ---
-title: "Inciativas 2023"
+title: "Sust. & CE"
 output:
   flexdashboard::flex_dashboard:
     orientation: columns
     horizontal_layout: scroll
     runtime: shiny
     theme: sandstone
+    highlight: zenburn
     logo: "/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/enel_white_small.png"
     storyboard: true
-    social: [ "twitter", "linkedin", "menu" ]
+    social: [ "linkedin", "twitter","menu" ]
 ---
 >
 >
@@ -29,5 +30,29 @@ library(knitr)
 
 ```
 
-Presentación {data-orientation=rows}
-=====================================
+
+Seguridad Energética en Campamentos {data-navmenu="Pobreza Energética"}
+=====================================  
+
+Inclusión Energética {data-navmenu="Pobreza Energética"}
+=====================================  
+
+Comunidad Circular {data-navmenu="Economía Circular"}
+=====================================  
+
+Eco-Carpintería (formación de oficios circulares) {data-navmenu="Economía Circular"}
+=====================================  
+
+Sitios de Construcción Sostenible en Dx {data-navmenu="Economía Circular"}
+=====================================  
+
+Sumemos Energía para la Acción Climática {data-navmenu="Cambio climático"}
+=====================================  
+
+Cortometraje Ciclos Vitales {data-navmenu="Cambio climático"}
+=====================================  
+
+Vinculación humedales {data-navmenu="Cambio climático"}
+=====================================  
+
+
