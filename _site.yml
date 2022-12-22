@@ -5,7 +5,7 @@ navbar:
   left:
     - text: "Inicio"
       href: index.html
-    - text: "Banco de proyectos"
+    - text: "Banco de iniciativas"
       href: panel.html
     - text: "Topic Map ODS"
       href: SDGPathfinder.html
@@ -17,6 +17,6 @@ navbar:
 output:
   html_document:
     theme: united
-    highlight: tango
+    highlight: zenburn
     include:
       after_body: footer.Rhtml

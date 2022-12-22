@@ -1,5 +1,5 @@
 ---
-title: "Visor de proyectos"
+title: "Inciativas 2023"
 output:
   flexdashboard::flex_dashboard:
     orientation: columns

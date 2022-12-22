@@ -45,4 +45,21 @@ title: "Equipo"
 <br>
 <br>
 <img style="float:left; margin:10px;" src="/Users/fevegag/OneDrive/Desarrollo RStudio/Sust&CEGrids/Sust-CEGrids/images/users.png" alt="drawing" width="150" height="200"/><br><br><br>Felipe Vega Gaete<br>Especialista en Sostenibilidad<br>Enel Grids & MKT<br><img src="/Users/fevegag/OneDrive/Iconos presentaciones/email.png" alt="drawing" width="18" align="center"><a href="mailito:felipe.vega.externali@enel.com"> felipe.vega.external@enel.com</a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<p align="justify"><font size=3>Hoy estamos presentes en 33 comunas de la región metropolitana, y tenemos relacionamiento con más de 340 organizaciones entre municipios, organizaciones territoriales y juntas de vecinos, fundaciones, centros educacionales y otros.</font></p>
+<p align="justify"><font size=4>Mapa de relacionamiento comunitario</font></p>
+<p align="center"><iframe src="https://fevegag.github.io/rcEnel/#12/-33.4269/-70.6742" width="900" height="500" frameborder="0"></iframe></p>
 </br>
+
+
+
+
+
+
+
+
