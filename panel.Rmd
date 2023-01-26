@@ -52,13 +52,22 @@ Eco-Carpintería (formación de oficios circulares) {data-navmenu="Economía Cir
 Sitios de Construcción Sostenible en Dx {data-navmenu="Economía Circular"}
 =====================================  
 
-Sumemos Energía para la Acción Climática {data-navmenu="Cambio climático"}
-=====================================  
-
 Cortometraje Ciclos Vitales {data-navmenu="Cambio climático"}
 =====================================  
 
 Vinculación humedales {data-navmenu="Cambio climático"}
 =====================================  
 
+Open Power to Art  {data-navmenu="Ciudades y Comunidades Sostenibles"}
+=====================================  
 
+Taller de arte y muralismo  {data-navmenu="Ciudades y Comunidades Sostenibles"}
+=====================================  
+
+Taller de Gestión de residuos {data-navmenu="Ciudades y Comunidades Sostenibles"}
+=====================================  
+
+Talleres comunitarios {data-navmenu="Talleres"}
+=====================================  
+
+<iframe title="Dashboard Talleres Sust. and CE - Panel" width="1800" height="980" src="https://app.powerbi.com/reportEmbed?reportId=f959ece7-07b0-4e62-984d-27b2f50c9a6b&autoAuth=true&ctid=d539d4bf-5610-471a-afc2-1c76685cfefa" frameborder="0" allowFullScreen="true"></iframe>
