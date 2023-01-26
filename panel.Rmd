@@ -11,8 +11,6 @@ output:
     storyboard: true
     social: [ "linkedin", "twitter","menu" ]
 ---
->
->
 
 ```{r setup, include=FALSE}
 
@@ -29,6 +27,11 @@ library(knitr)
 #path = "/Users/fevegag/Municipalidad de Las Condes/DECOMCloud - Documentos/Planificación Social y Estudios/Estudios/EN TRABAJO/2020/20200814 CENSO SOCIAL LAS CONDES 2020/"
 
 ```
+
+Sidebar {.sidebar data-width=100}
+=====================================
+***
+<p align="left"><font size=3><b><a href="https://fevegag.github.io/Sust-CEGrids/" target="_blank">INICIO</a></b></font></p>
 
 
 Seguridad Energética en Campamentos {data-navmenu="Pobreza Energética"}
@@ -61,13 +64,10 @@ Vinculación humedales {data-navmenu="Cambio climático"}
 Open Power to Art  {data-navmenu="Ciudades y Comunidades Sostenibles"}
 =====================================  
 
-Taller de arte y muralismo  {data-navmenu="Ciudades y Comunidades Sostenibles"}
-=====================================  
 
-Taller de Gestión de residuos {data-navmenu="Ciudades y Comunidades Sostenibles"}
-=====================================  
+
 
 Talleres comunitarios {data-navmenu="Talleres"}
 =====================================  
 
-<iframe title="Dashboard Talleres Sust. and CE - Panel" width="1800" height="980" src="https://app.powerbi.com/reportEmbed?reportId=f959ece7-07b0-4e62-984d-27b2f50c9a6b&autoAuth=true&ctid=d539d4bf-5610-471a-afc2-1c76685cfefa" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Dashboard Talleres Sust. and CE - Panel" width="1800" height="850" src="https://app.powerbi.com/reportEmbed?reportId=f959ece7-07b0-4e62-984d-27b2f50c9a6b&autoAuth=true&ctid=d539d4bf-5610-471a-afc2-1c76685cfefa" frameborder="0" allowFullScreen="true"></iframe>
