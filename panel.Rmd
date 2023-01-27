@@ -65,8 +65,7 @@ Open Power to Art  {data-navmenu="Ciudades y Comunidades Sostenibles"}
 =====================================  
 
 
-Talleres comunitarios {data-orientation=rows}
+Talleres {data-orientation=rows}
 =====================================
 
-
-<iframe title="Dashboard Talleres Sust. and CE - Panel" width="1800" height="850" src="https://app.powerbi.com/reportEmbed?reportId=f959ece7-07b0-4e62-984d-27b2f50c9a6b&autoAuth=true&ctid=d539d4bf-5610-471a-afc2-1c76685cfefa" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Dashboard Talleres Sust. and CE - Panel" width="100%" height="100%" src="https://app.powerbi.com/reportEmbed?reportId=f959ece7-07b0-4e62-984d-27b2f50c9a6b&autoAuth=true&ctid=d539d4bf-5610-471a-afc2-1c76685cfefa" frameborder="0" allowFullScreen="true"></iframe>
