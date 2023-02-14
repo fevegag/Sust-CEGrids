@@ -34,34 +34,34 @@ Sidebar {.sidebar data-width=100}
 <p align="left"><font size=3><b><a href="https://fevegag.github.io/Sust-CEGrids/" target="_blank">INICIO</a></b></font></p>
 
 
-Seguridad Energética en Campamentos {data-navmenu="Pobreza Energética"}
+Seguridad Energética en Campamentos {data-navmenu="Energy Poverty"}
 =====================================  
 
-Inclusión Energética {data-navmenu="Pobreza Energética"}
+Inclusión Energética {data-navmenu="Energy Poverty"}
 =====================================  
 
-Formación Instaladores Eléctricos Domciliarios {data-navmenu="Pobreza Multidimensional"}
+Formación Instaladores Eléctricos Domciliarios {data-navmenu="Social and Economic Development"}
 =====================================  
 
-Educando con Energía ENEL CEO {data-navmenu="Pobreza Multidimensional"}
+Educando con Energía ENEL CEO {data-navmenu="Education"}
 =====================================  
 
-Comunidad Circular {data-navmenu="Economía Circular"}
+Comunidad Circular {data-navmenu="Social and Economic Development"}
 =====================================  
 
-Eco-Carpintería (formación de oficios circulares) {data-navmenu="Economía Circular"}
+Eco-Carpintería (formación de oficios circulares) {data-navmenu="Circular Economy"}
 =====================================  
 
-Sitios de Construcción Sostenible en Dx {data-navmenu="Economía Circular"}
+Sitios de Construcción Sostenible en Dx {data-navmenu="Circular Economy"}
 =====================================  
 
 Cortometraje Ciclos Vitales {data-navmenu="Cambio climático"}
 =====================================  
 
-Vinculación humedales {data-navmenu="Cambio climático"}
+Vinculación Servicios Ecosistémicos {data-navmenu="Environmental, Nature & Biodiversity"}
 =====================================  
 
-Open Power to Art  {data-navmenu="Ciudades y Comunidades Sostenibles"}
+Open Power to Art  {data-navmenu="Community Support"}
 =====================================  
 
 

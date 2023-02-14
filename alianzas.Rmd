@@ -2,4 +2,3 @@
 title: "Alianzas"
 ---
 
-Hola mundo
